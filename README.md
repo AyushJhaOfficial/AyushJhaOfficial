@@ -7,9 +7,9 @@
 <br/>
 
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/your-leetcode-username"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://www.geeksforgeeks.org/user/your-gfg-username"><img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/AyushJha2006"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.geeksforgeeks.org/profile/ayushjhaofyg7s"><img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="mailto:ayushjhaofficial07@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=2F81F7&style=flat-square" alt="profile views"/>
 
@@ -80,16 +80,16 @@ philosophy: "Ship clean, scalable backend systems — sweat the API design first
 <table align="center" border="0">
 <tr>
 <td align="center">
-<img src="https://leetcode-stats-two.vercel.app/api?username=your-leetcode-username&theme=dark" width="410"/>
+<img src="https://leetcode-stats-two.vercel.app/api?username=AyushJha2006&theme=dark" width="410"/>
 </td>
 <td align="center">
-<img src="https://geeks-for-geeks-stats-card.vercel.app/your-gfg-username" width="410"/>
+<img src="https://geeks-for-geeks-stats-card.vercel.app/ayushjhaofyg7s" width="410"/>
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=JetBrains+Mono&ext=activity&width=850" />
+  <img src="https://leetcard.jacoblin.cool/AyushJha2006?theme=dark&font=JetBrains+Mono&ext=activity&width=850" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
