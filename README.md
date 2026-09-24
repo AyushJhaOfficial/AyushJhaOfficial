@@ -1,122 +1,153 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom=false&height=120&section=header&text=Java%20Backend%20Developer&fontColor=white&animation=fadeIn&fontAlignY=30&fontSize=40&showIcon=true&icon=coffee.svg&iconColor=ED8B00" alt="Banner" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</p>
+<br/>
 
-<h1 align="center">Hi, I'm <span style="color: #ED8B00;">[Your Name]</span> 👋</h1>
-<h3 align="center">Professional Java Backend Developer & Cloud-Native Engineer</h3>
+# <b>AYUSH KUMAR JHA</b>
 
-<p align="center">
-  Building scalable, high-performance backend systems with Java, Spring Boot & Cloud-Native technologies.
-</p>
+### Java Backend Developer | Spring Boot | Cloud-Native
 
----
+</div>
 
-## 📌 About Me
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<div style="background: linear-gradient(145deg, #e0e5ec, #f7f9fc); border-radius: 20px; padding: 30px; box-shadow: 9px 9px 16px rgba(163, 177, 198, 0.6), -9px -9px 16px rgba(255, 255, 255, 0.9);">
+
+### 👋 About Me
+
+I'm a **Java Backend Developer** passionate about building scalable, high-performance distributed systems.
+
+<br/>
+
+🔭 **Focus** → Microservices, System Design
+🌱 **Learning** → Advanced K8s Patterns, Event-Driven Architecture
+💬 **Ask Me** → Spring Boot, Java Concurrency, DDD
+
+</div>
+</td>
+<td width="50%">
+<div style="background: linear-gradient(145deg, #e0e5ec, #f7f9fc); border-radius: 20px; padding: 30px; box-shadow: 9px 9px 16px rgba(163, 177, 198, 0.6), -9px -9px 16px rgba(255, 255, 255, 0.9);">
+
+### 🛠️ Core Stack
 
 | | |
 |---|---|
-| 🔭 **Currently Working On** | Microservices Architecture, System Design |
-| 🌱 **Learning** | Kubernetes Advanced Patterns, Event-Driven Architecture |
-| 💬 **Ask Me About** | Spring Boot, Java Concurrency, Distributed Systems, Docker, K8s |
-| ⚡ **Fun Fact** | I believe clean code > clever code |
+| ☕ | Java 17+, Kotlin |
+| 🌱 | Spring Boot, Spring Cloud |
+| 🐳 | Docker, Kubernetes |
+| 🗄️ | PostgreSQL, Redis, MongoDB |
+| ☁️ | AWS, GitHub Actions |
+| 🔨 | Maven, Gradle, Git |
 
----
+</div>
+</td>
+</tr>
+</table>
 
-## 🛠️ Tech Stack
+</div>
 
-### Languages
+<br/>
+
+<div align="center">
+
+<div style="background: linear-gradient(145deg, #e0e5ec, #f7f9fc); border-radius: 20px; padding: 20px; box-shadow: 9px 9px 16px rgba(163, 177, 198, 0.6), -9px -9px 16px rgba(255, 255, 255, 0.9); display: inline-block;">
+
+### ⚡ Technologies
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C97?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-### Cloud & DevOps
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Tools & Others
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+</div>
 
-## 📊 Coding Stats (Real-Time)
+</div>
 
-### LeetCode
-[![Your Name's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+<br/>
 
-### GeeksforGeeks
-[![Your Name's GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=YOUR_GFG_USERNAME)](https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/)
+<div align="center">
 
----
+<div style="background: linear-gradient(145deg, #e0e5ec, #f7f9fc); border-radius: 20px; padding: 25px; box-shadow: 9px 9px 16px rgba(163, 177, 198, 0.6), -9px -9px 16px rgba(255, 255, 255, 0.9); display: inline-block;">
 
-## 📈 GitHub Stats
+### 📊 Coding Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+[![AYUSH KUMAR JHA's LeetCode](https://leetcode-stats.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=tokyonight&hide_border=true)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
 
----
+<br/>
 
-## 🚀 Featured Projects
+[![GeeksforGeeks](https://geeks-for-geeks-stats-api.vercel.app/?userName=YOUR_GFG_USERNAME)](https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/)
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Project Name 1](https://github.com/YOUR_GITHUB_USERNAME/project1) | Scalable e-commerce microservices platform with 99.9% uptime | Spring Boot, K8s, PostgreSQL, Redis |
-| [Project Name 2](https://github.com/YOUR_GITHUB_USERNAME/project2) | Real-time notification service handling 10K+ events/sec | Java, Kafka, Spring Cloud, Docker |
-| [Project Name 3](https://github.com/YOUR_GITHUB_USERNAME/project3) | REST API gateway with JWT auth, rate limiting & caching | Spring Boot, Spring Security, Redis |
+<br/>
 
----
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/YOUR_GITHUB_USERNAME)
 
-## 🏆 Achievements
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
 
-- ✅ **LeetCode** — 500+ problems solved (adjust as needed)
-- ✅ **GeeksforGeeks** — 1000+ problems solved (adjust as needed)
-- ✅ **Open Source** — Contributed to [Project Name](link)
-- ✅ **Certification** — AWS Certified Developer / CKA (if applicable)
+[![Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
 
----
+</div>
 
-## 📫 Connect With Me
+<br/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-</p>
+<div align="center">
 
----
+<div style="background: linear-gradient(145deg, #e0e5ec, #f7f9fc); border-radius: 20px; padding: 20px; box-shadow: 9px 9px 16px rgba(163, 177, 198, 0.6), -9px -9px 16px rgba(255, 255, 255, 0.9); display: inline-block;">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom=false&height=100&section=footer&showIcon=true&icon=heart.svg&iconColor=FF5555&iconAlignY=8&iconAlignX=3" alt="Footer" />
-</p>   
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| [Project 1](https://github.com/YOUR_GITHUB_USERNAME/project1) | Scalable microservices e-commerce platform | Spring Boot, K8s, PostgreSQL |
+| [Project 2](https://github.com/YOUR_GITHUB_USERNAME/project2) | Real-time event-driven notification engine | Java, Kafka, Redis |
+| [Project 3](https://github.com/YOUR_GITHUB_USERNAME/project3) | API Gateway with JWT auth & rate limiting | Spring Security, Docker |
+
+</div>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<div style="background: linear-gradient(145deg, #e0e5ec, #f7f9fc); border-radius: 20px; padding: 20px; box-shadow: 9px 9px 16px rgba(163, 177, 198, 0.6), -9px -9px 16px rgba(255, 255, 255, 0.9); display: inline-block;">
+
+### 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![GfG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<div style="background: linear-gradient(145deg, #e0e5ec, #f7f9fc); border-radius: 20px; padding: 15px; box-shadow: 9px 9px 16px rgba(163, 177, 198, 0.6), -9px -9px 16px rgba(255, 255, 255, 0.9); display: inline-block;">
+
+<b>AYUSH KUMAR JHA</b> — Java Backend Developer
+
+<br/>
+
+*Clean Code • Scalable Systems • Cloud-Native*
+
+</div>
+
+</div>   
